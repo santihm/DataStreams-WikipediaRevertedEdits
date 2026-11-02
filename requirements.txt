@@ -1,0 +1,7 @@
+river
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+requests
